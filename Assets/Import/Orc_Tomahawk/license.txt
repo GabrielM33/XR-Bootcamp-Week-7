@@ -1,0 +1,11 @@
+Model Information:
+* title:	Orc Tomahawk
+* source:	https://sketchfab.com/3d-models/orc-tomahawk-4f53aca64e8e4883ac20aff8b67d519b
+* author:	Tarik Takasu (https://sketchfab.com/tarik_takasu)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Orc Tomahawk" (https://sketchfab.com/3d-models/orc-tomahawk-4f53aca64e8e4883ac20aff8b67d519b) by Tarik Takasu (https://sketchfab.com/tarik_takasu) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

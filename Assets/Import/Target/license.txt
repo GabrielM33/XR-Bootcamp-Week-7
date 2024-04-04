@@ -1,0 +1,11 @@
+Model Information:
+* title:	Target
+* source:	https://sketchfab.com/3d-models/target-26d9025cc9ba4377a343ea8d8a153100
+* author:	StayLord (https://sketchfab.com/StayLord)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Target" (https://sketchfab.com/3d-models/target-26d9025cc9ba4377a343ea8d8a153100) by StayLord (https://sketchfab.com/StayLord) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

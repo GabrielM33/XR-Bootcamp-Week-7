@@ -1,0 +1,11 @@
+Model Information:
+* title:	Grenade Launcher
+* source:	https://sketchfab.com/3d-models/grenade-launcher-25ba008907ba4f30b2bc9b2911ffc8a4
+* author:	Vlad Dyuhaaa (https://sketchfab.com/Dyuhaaa)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Grenade Launcher" (https://sketchfab.com/3d-models/grenade-launcher-25ba008907ba4f30b2bc9b2911ffc8a4) by Vlad Dyuhaaa (https://sketchfab.com/Dyuhaaa) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

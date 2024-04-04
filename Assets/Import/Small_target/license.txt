@@ -1,0 +1,11 @@
+Model Information:
+* title:	Small target
+* source:	https://sketchfab.com/3d-models/small-target-e589fd90c4b74ec8b281fb62f0f896d9
+* author:	Jimmy Dadema (https://sketchfab.com/JimmyDadema)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Small target" (https://sketchfab.com/3d-models/small-target-e589fd90c4b74ec8b281fb62f0f896d9) by Jimmy Dadema (https://sketchfab.com/JimmyDadema) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
